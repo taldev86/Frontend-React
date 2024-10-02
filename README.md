@@ -51,7 +51,8 @@ being awesome contributors to this project. **We'd like to take a moment to reco
 | Name              | GitHub                                                    |
 | ----------------- | --------------------------------------------------------- |
 | Nate Radebaugh    | [@NateRadebaugh](https://github.com/NateRadebaugh)        |
-| Kirk Ross         | [@kirkbross](https://github.com/kirkbross)                |
+| Kirk Ross         | [@kirkbross](https://github.com/kirkbross)
+| Dei Dev           | [@Deidev](https://github.com/taldev86)
 | Prateek Goel      | [@prateekgoel](https://github.com/prateekgoel)            |
 | Naor Torgeman     | [@naortor](https://github.com/naortor)                    |
 | Matthew Hand      | [@mmhand123](https://github.com/mmhand123)                |
